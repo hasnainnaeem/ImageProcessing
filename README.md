@@ -5,7 +5,7 @@
 [![license](https://img.shields.io/badge/license-MIT-%23373737)]()
 
 # Digital Image Processing ☕
- Digital image processing labs & projects implemented from scratch as well as using OpenCV 2.
+ Digital image processing labs & projects implemented from scratch as well as using OpenCV 2. 🔥
 
 ## Labs
 ### [Lab 1: Introduction to Python](https://github.com/hasnainnaeem/ImageProcessing/tree/master/Lab%201%20-%20Introduction%20to%20Python)
