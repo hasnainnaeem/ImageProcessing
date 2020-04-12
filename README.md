@@ -17,4 +17,4 @@
 ### [Lab 4: Transformation Functions and Geometric Transforms from Scratch and using OpenCV 🔥](https://github.com/hasnainnaeem/ImageProcessing/tree/master/Lab%204%20-%20Transformation%20Functions%20and%20Geometric%20Transforms%20from%20Scratch%20and%20using%20OpenCV) 
 ### [Lab 5: Image Enhancement](https://github.com/hasnainnaeem/ImageProcessing/tree/master/Lab%205%20-%20Image%20Enhancement) 
 ### [Lab 6: Histogram Processing from Scratch and using OpenCV 🔥](https://github.com/hasnainnaeem/ImageProcessing/tree/master/Lab%206%20-%20Histogram%20Processing) 
-### [Lab 7 - Image Enhancement](https://github.com/hasnainnaeem/ImageProcessing/tree/master/Lab%207%20-%20Image%20Enhancement) 
+### [Lab 7: Image Enhancement Returns](https://github.com/hasnainnaeem/ImageProcessing/tree/master/Lab%207%20-%20Image%20Enhancement) 
